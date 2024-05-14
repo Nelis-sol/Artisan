@@ -1,0 +1,8 @@
+[package]
+name = "scrypt"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+scrypt = { version = "0.11.0", default-features = false }
+hex = "0.4"
