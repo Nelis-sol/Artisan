@@ -66,6 +66,7 @@ name = "random_number_generator"
 version = "0.1.0"
 dependencies = [
  "rand",
+ "rand_core",
 ]
 
 [[package]]
